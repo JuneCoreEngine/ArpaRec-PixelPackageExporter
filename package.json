@@ -1,0 +1,11 @@
+{
+  "name": "com.arparec.unity.pixelpe",
+  "version": "1.5.0",
+  "displayName": "Pixel Package Exporter",
+  "description": "Exports a Unity Package as a tarball file (.tgz)",
+  "author": {
+    "name": "ArpaRec",
+    "email": "support@arparec.dev",
+    "url": "https://arparec.dev"
+  }
+}
